@@ -29,7 +29,7 @@ Execute the program using runserver command.
     <head>
         <center>
         <img src="saveetha.png">
-        <title>SLOT TIMETABLE (HARINI)</title>
+        <title>SLOT TIMETABLE (keerthana)</title>
         <caption><h3>SLOT TIMETABLE- keerthana (24900259)</h3></caption>
         </center>
     </head>
